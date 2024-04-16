@@ -63,6 +63,15 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+#### linkage
+![image](https://github.com/Gokhulraj2005/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/138849253/94321d6b-2cb8-4ed4-a68a-51e969f4b5f7)
+#### base plate
+![image](https://github.com/Gokhulraj2005/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/138849253/5d2d7dd8-a3f8-469d-b66c-3636e0466373)
+#### gesr linkage
+![image](https://github.com/Gokhulraj2005/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/138849253/bae19694-c564-4c99-b425-01eea0f0f95b)
+#### finger
+![image](https://github.com/Gokhulraj2005/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/138849253/7b8013e5-7ad3-481b-a8c6-3aee12840406)
+
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
